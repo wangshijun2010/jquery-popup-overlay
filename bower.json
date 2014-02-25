@@ -1,0 +1,23 @@
+{
+  "name": "jquery-popup-overlay",
+  "main": "index.js",
+  "version": "1.6.0",
+  "homepage": "https://github.com/wangshijun2010/jquery-popup-overlay",
+  "authors": [
+    "wangshijun2010 <wangshijun2010@gmail.com>"
+  ],
+  "description": "jquery popup overlay",
+  "keywords": [
+    "jquery",
+    "popup",
+    "overlay"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
